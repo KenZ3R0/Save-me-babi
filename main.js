@@ -1,20 +1,20 @@
 let targetSpeed = innerWidth < 800 ? 3 : 5;
 const messages = [
-    "Pinahiram ko lang yung jacket ko kasi nilalamig siya.",
-    "Mahal, nag-wave lang ako pabalik. Ang awkward kung hindi ko babatiin.",
+    "Pinahiram ko lang yung jacket ko kasi nilalamig siya babi 🥺 kawawa naman.",
+    "Darling, nag-wave lang ako pabalik. Ang awkward kung hindi ko babatiin diba?",
     "Nag-share lang kami ng payong. Umuulan kasi.",
     "Nasa tabi ko lang siya sa picture, hindi ko yun sinadya.",
-    "Nag-drive lang ako pauwi kasi gabi na.",
-    "Mahal, nag-reply lang ako agad kasi baka important.",
+    "Nag-lakad lang ako pauwi kasi gabi na.",
+    "Darling, nag-reply lang ako agad kasi baka important.",
     "Pinulot ko lang yung buhok sa damit niya, may dumikit lang talaga.",
     "Naupo lang ako dun kasi wala nang ibang upuan.",
     "Sabay lang kami kumain kasi pareho kaming wala pang lunch.",
-    "Mahal, tumawa lang ako sa joke niya. Nakakatawa lang talaga.",
-    "Nag-goodnight lang ako. Normal yun.",
+    "Darling, tumawa lang ako sa joke niya. Nakakatawa lang talaga.",
+    "Nag-goodnight lang ako. Normal yun go.",
     "Nag-sabay lang kami umuwi kasi isang direction lang.",
     "Pinahiram ko lang yung ballpen ko, wala na siyang tinta sa kanya.",
-    "Mahal, nakinig lang ako kasi nagkukwento siya. Hindi rin ako sumingit.",
-    "Nag-'haha' lang ako. Hindi 'hehe'. May difference yun."
+    "Darling, nakinig lang ako kasi nagkukwento siya. Hindi rin ako sumingit.",
+    "Nag-'haha' lang ako. Hindi 'hehe'. May difference yun 😭"
 ];
 let messagePool = [...messages];
 
